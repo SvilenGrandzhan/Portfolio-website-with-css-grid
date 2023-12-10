@@ -20,8 +20,11 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-Sources: 
+Sources:
+
 1. https://www.youtube.com/watch?v=dRuMoGNcJfw&list=PL4-IK0AVhVjNRKd4KBrXHpNtmMvR0qYz4&index=1&ab_channel=KevinPowell
 2. https://github.com/kevin-powell/portfolio-with-css-grid-start
 
 Note: This is a training project and goal is to learn CSS grid
+
+Dev Note: gulp is used to compile sass and browser sync
